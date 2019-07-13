@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
+  "name": "jquery-with-typescript",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "https://github.com/kiochan/jquery-with-typescript.git",
+  "author": "Xingchen Sun <sunxingchen@live.com>",
+  "license": "MIT"
+}
